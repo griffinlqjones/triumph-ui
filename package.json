@@ -1,11 +1,14 @@
 {
-  "name": "ui-theme-template",
+  "name": "triumph-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "A theme based on a motorcycle I rode in a dream.",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "triumph",
+    "motorcycle",
+    "dark"
   ],
   "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",

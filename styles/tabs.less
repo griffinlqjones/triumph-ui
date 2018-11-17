@@ -15,10 +15,18 @@
     line-height: @tab-height;
     font-size: @font-size;
     border-right: 1px solid @tab-border-color;
-    background-color: @tab-background-color;
+    border-left: 1px solid @tab-border-color;
+    border-top: 3px solid @tab-border-color;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    // background-color: @tab-background-color;
+    background: @tab-background-color;
     &.active {
-      color: @text-color-selected;
+      // color: @text-color-selected;
+      color: @tab-background-color;
       background-color: @tab-background-color-active;
+      text-align: center;
+      font-weight: bolder;
     }
 
 
