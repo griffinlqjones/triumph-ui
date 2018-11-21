@@ -10,7 +10,7 @@
     "motorcycle",
     "dark"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/griffinlqjones/triumph-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
